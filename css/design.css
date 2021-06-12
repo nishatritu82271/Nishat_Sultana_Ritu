@@ -1,0 +1,98 @@
+h1{
+  text-align: center;
+  color: #ffffff;
+  font-size: 100%;
+}
+h2{
+  text-align: left;
+  font-color: ;
+}
+h3{
+  text-align: center;
+}
+ 
+ header{
+  text-align: center;
+  color: #ABCD;
+ }
+ .nav{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    font-family: "Arial Rounded MT Bold";
+    overflow: hidden;
+    background-color: #ffffff;
+     top: 0px;
+   }
+   .nav li a {
+  transition: all 0.3s ease 0s;
+}
+.nav li a:hover {
+  color: #0088a9;
+}
+li {
+    text-align: center;
+  }
+li a{
+    display: block;
+    text-align: center;
+    background-color:#ABCD ;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: aliceblue
+   }
+   .left{
+    text-align: left;
+   }
+
+   li{
+    text-align: left;
+   }
+
+body{
+  background: #B3B3B3;
+  font-size: 150%;
+  margin: 5%;
+}
+table {
+  width: 75%;
+  margin: auto;
+}
+table th{
+ border: 2px solid #ffffff ;
+  color: #8A7B6C;
+  text-align: center;
+}
+th:nth-child(2){
+  text-align: center;
+  padding-left: 4%;
+  }
+
+th:nth-child(3){
+  text-align: center;
+  padding-left: 4%;
+}
+
+table td{
+    border: 1px solid #ffffff;
+  background: #e3e3e3;
+  padding: 4px 8px;
+  margin: 2px 5px 5px 2px;
+    font-family: serif, Times New Roman, Arial;
+    color: #0f0f0f;
+  }
+td:nth-child(2){
+  text-align: center;
+  }
+td:nth-child(3){
+  text-align: center;
+  padding-left: 3.5%;
+}
+tr td{
+  opacity: 0.6;
+  text-align: center;
+}
+
+.footer{
+  text-align: center;
+}
